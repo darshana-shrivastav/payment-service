@@ -1,1 +1,2 @@
-web: node app.js
+release: npm run heroku:init
+web: npm run start
